@@ -20,6 +20,7 @@ a {
     background-color: red;
     padding: 10px;
     text-decoration: none;
+    border-radius: 20px;
 }
 div {
     background-color: #222222;
@@ -34,5 +35,5 @@ li {
     background-color:#333333;
     margin: 10px;
     padding: 10px;
-    boder-radius: 5px;
+    border-radius: 20px;
 }
