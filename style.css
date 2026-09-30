@@ -22,4 +22,13 @@ div {
     background-color: #222222;
     padding: 30px;
     margin: 30px
-    
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    background-color:#333333;
+    margin: 10px;
+    padding: 10px;
+    boder-radius: 5px;
