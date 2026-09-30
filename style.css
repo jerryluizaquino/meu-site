@@ -13,5 +13,13 @@ p {
     color: white;
 }
 a {
-    color: blue;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    text-decoration: none;
 }
+div {
+    background-color: #222222;
+    padding: 30px;
+    margin: 30px
+    
