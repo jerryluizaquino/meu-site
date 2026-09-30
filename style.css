@@ -1,9 +1,10 @@
 body {
-    background-color: black;
+    background-color: #1a1a1a;
     color: white;
+    text-align: center;
 }
 h1 {
-    color:white;
+    color:red;
 }
 h2 {
     color: red;
